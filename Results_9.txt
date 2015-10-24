@@ -1,0 +1,100 @@
+Deplaned	Aer Lingus	Europe	July	2008	6263	1214895600
+Enplaned	Aer Lingus	Europe	July	2008	5305	1214895600
+Deplaned	Air Canada 	Canada	July	2008	36389	1214895600
+Enplaned	Air Canada 	Canada	July	2008	28294	1214895600
+Deplaned	Air China	Asia	July	2008	6789	1214895600
+Enplaned	Air China	Asia	July	2008	5343	1214895600
+Deplaned	Air France	Europe	July	2008	13250	1214895600
+Enplaned	Air France	Europe	July	2008	12828	1214895600
+Deplaned	Air New Zealand	Australia / Oceania	July	2008	7279	1214895600
+Enplaned	Air New Zealand	Australia / Oceania	July	2008	7633	1214895600
+Deplaned	AirTran Airways	US	July	2008	23650	1214895600
+Enplaned	AirTran Airways	US	July	2008	22661	1214895600
+Deplaned	Alaska Airlines	US	July	2008	48698	1214895600
+Enplaned	Alaska Airlines	US	July	2008	49424	1214895600
+Thru / Transit	Alaska Airlines	US	July	2008	5960	1214895600
+Deplaned	Alaska Airlines	Canada	July	2008	5933	1214895600
+Enplaned	Alaska Airlines	Canada	July	2008	6650	1214895600
+Thru / Transit	Alaska Airlines	Canada	July	2008	189	1214895600
+Deplaned	Alaska Airlines	Mexico	July	2008	7947	1214895600
+Enplaned	Alaska Airlines	Mexico	July	2008	7592	1214895600
+Thru / Transit	Alaska Airlines	Mexico	July	2008	950	1214895600
+Deplaned	All Nippon Airways	Asia	July	2008	6625	1214895600
+Enplaned	All Nippon Airways	Asia	July	2008	6085	1214895600
+Deplaned	Allegiant Air	US	July	2008	1882	1214895600
+Enplaned	Allegiant Air	US	July	2008	1869	1214895600
+Deplaned	American Airlines	US	July	2008	157154	1214895600
+Enplaned	American Airlines	US	July	2008	150364	1214895600
+Deplaned	American Eagle Airlines	US	July	2008	4100	1214895600
+Enplaned	American Eagle Airlines	US	July	2008	3676	1214895600
+Deplaned	Ameriflight	US	July	2008	1	1214895600
+Deplaned	Asiana Airlines	Asia	July	2008	5090	1214895600
+Enplaned	Asiana Airlines	Asia	July	2008	4037	1214895600
+Deplaned	BelAir Airlines	Europe	July	2008	1065	1214895600
+Enplaned	BelAir Airlines	Europe	July	2008	698	1214895600
+Deplaned	British Airways	Europe	July	2008	20516	1214895600
+Enplaned	British Airways	Europe	July	2008	19383	1214895600
+Deplaned	Cathay Pacific	Asia	July	2008	21602	1214895600
+Enplaned	Cathay Pacific	Asia	July	2008	19268	1214895600
+Deplaned	China Airlines	Asia	July	2008	11340	1214895600
+Enplaned	China Airlines	Asia	July	2008	10139	1214895600
+Deplaned	Delta Air Lines	US	July	2008	85692	1214895600
+Enplaned	Delta Air Lines	US	July	2008	83556	1214895600
+Deplaned	EVA Airways	Asia	July	2008	14390	1214895600
+Enplaned	EVA Airways	Asia	July	2008	12934	1214895600
+Deplaned	ExpressJet Airlines	US	July	2008	6328	1214895600
+Enplaned	ExpressJet Airlines	US	July	2008	6384	1214895600
+Deplaned	Frontier Airlines	US	July	2008	20948	1214895600
+Enplaned	Frontier Airlines	US	July	2008	19772	1214895600
+Deplaned	Hawaiian Airlines	US	July	2008	6692	1214895600
+Enplaned	Hawaiian Airlines	US	July	2008	6797	1214895600
+Deplaned	Horizon Air 	US	July	2008	5277	1214895600
+Enplaned	Horizon Air 	US	July	2008	5654	1214895600
+Deplaned	Japan Airlines	Asia	July	2008	9384	1214895600
+Enplaned	Japan Airlines	Asia	July	2008	8674	1214895600
+Deplaned	Jet Airways	Asia	July	2008	5638	1214895600
+Enplaned	Jet Airways	Asia	July	2008	5431	1214895600
+Deplaned	JetBlue Airways 	US	July	2008	23553	1214895600
+Enplaned	JetBlue Airways 	US	July	2008	22033	1214895600
+Deplaned	KLM Royal Dutch Airlines	Europe	July	2008	13439	1214895600
+Enplaned	KLM Royal Dutch Airlines	Europe	July	2008	11944	1214895600
+Deplaned	Korean Air Lines	Asia	July	2008	6799	1214895600
+Enplaned	Korean Air Lines	Asia	July	2008	6407	1214895600
+Deplaned	Lufthansa German Airlines	Europe	July	2008	19343	1214895600
+Enplaned	Lufthansa German Airlines	Europe	July	2008	18342	1214895600
+Deplaned	Mexicana Airlines	Mexico	July	2008	8249	1214895600
+Enplaned	Mexicana Airlines	Mexico	July	2008	7930	1214895600
+Deplaned	Miami Air International	US	July	2008	58	1214895600
+Enplaned	Miami Air International	US	July	2008	60	1214895600
+Deplaned	Midwest Airlines	US	July	2008	7723	1214895600
+Enplaned	Midwest Airlines	US	July	2008	7570	1214895600
+Deplaned	Northwest Airlines	US	July	2008	70376	1214895600
+Enplaned	Northwest Airlines	US	July	2008	67995	1214895600
+Thru / Transit	Northwest Airlines	US	July	2008	598	1214895600
+Deplaned	Northwest Airlines	Asia	July	2008	6941	1214895600
+Enplaned	Northwest Airlines	Asia	July	2008	6575	1214895600
+Deplaned	Philippine Airlines	Asia	July	2008	12593	1214895600
+Enplaned	Philippine Airlines	Asia	July	2008	11089	1214895600
+Deplaned	Qantas Airways	Australia / Oceania	July	2008	5888	1214895600
+Enplaned	Qantas Airways	Australia / Oceania	July	2008	5420	1214895600
+Deplaned	Singapore Airlines	Asia	July	2008	16283	1214895600
+Enplaned	Singapore Airlines	Asia	July	2008	17280	1214895600
+Deplaned	SkyWest Airlines	US	July	2008	7788	1214895600
+Enplaned	SkyWest Airlines	US	July	2008	7845	1214895600
+Deplaned	SkyWest Airlines	US	July	2008	84856	1214895600
+Enplaned	SkyWest Airlines	US	July	2008	85890	1214895600
+Deplaned	SkyWest Airlines	Canada	July	2008	1771	1214895600
+Deplaned	SkyWest Airlines	Canada	July	2008	10677	1214895600
+Enplaned	SkyWest Airlines	Canada	July	2008	12082	1214895600
+Deplaned	Southwest Airlines	US	July	2008	94053	1214895600
+Enplaned	Southwest Airlines	US	July	2008	93470	1214895600
+Thru / Transit	Southwest Airlines	US	July	2008	7	1214895600
+Deplaned	Sun Country Airlines	US	July	2008	4596	1214895600
+Enplaned	Sun Country Airlines	US	July	2008	4530	1214895600
+Deplaned	TACA	Central America	July	2008	5107	1214895600
+Enplaned	TACA	Central America	July	2008	5181	1214895600
+Deplaned	US Airways	US	July	2008	82203	1214895600
+Enplaned	US Airways	US	July	2008	80865	1214895600
+Deplaned	United Airlines	US	July	2008	72518	1214895600
+Enplaned	United Airlines	US	July	2008	69144	1214895600
+Deplaned	United Airlines - Pre 07/01/2013	US	July	2008	9522	1214895600

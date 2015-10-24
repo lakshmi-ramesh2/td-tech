@@ -1,0 +1,603 @@
+Deplaned	Aer Lingus	Europe	April	2015	4146	1427871600
+Enplaned	Aer Lingus	Europe	April	2015	4457	1427871600
+Deplaned	Aeromexico	Mexico	April	2015	10838	1427871600
+Enplaned	Aeromexico	Mexico	April	2015	11137	1427871600
+Deplaned	Air Canada 	Canada	April	2015	10367	1427871600
+Enplaned	Air Canada 	Canada	April	2015	10282	1427871600
+Deplaned	Air Canada 	Canada	April	2015	16914	1427871600
+Enplaned	Air Canada 	Canada	April	2015	16777	1427871600
+Deplaned	Air China	Asia	April	2015	7465	1427871600
+Enplaned	Air China	Asia	April	2015	6218	1427871600
+Deplaned	Air France	Europe	April	2015	13212	1427871600
+Enplaned	Air France	Europe	April	2015	13395	1427871600
+Deplaned	Air New Zealand	Australia / Oceania	April	2015	9379	1427871600
+Enplaned	Air New Zealand	Australia / Oceania	April	2015	7852	1427871600
+Deplaned	Alaska Airlines	US	April	2015	55673	1427871600
+Enplaned	Alaska Airlines	US	April	2015	57612	1427871600
+Deplaned	Alaska Airlines	Mexico	April	2015	5695	1427871600
+Enplaned	Alaska Airlines	Mexico	April	2015	5053	1427871600
+Deplaned	All Nippon Airways	Asia	April	2015	6777	1427871600
+Enplaned	All Nippon Airways	Asia	April	2015	6173	1427871600
+Deplaned	American Airlines	US	April	2015	119810	1427871600
+Enplaned	American Airlines	US	April	2015	118383	1427871600
+Deplaned	Asiana Airlines	Asia	April	2015	8327	1427871600
+Enplaned	Asiana Airlines	Asia	April	2015	6321	1427871600
+Deplaned	British Airways	Europe	April	2015	19534	1427871600
+Enplaned	British Airways	Europe	April	2015	19594	1427871600
+Deplaned	Cathay Pacific	Asia	April	2015	16925	1427871600
+Enplaned	Cathay Pacific	Asia	April	2015	15947	1427871600
+Deplaned	China Airlines	Asia	April	2015	10572	1427871600
+Enplaned	China Airlines	Asia	April	2015	9409	1427871600
+Deplaned	China Eastern	Asia	April	2015	5373	1427871600
+Enplaned	China Eastern	Asia	April	2015	4408	1427871600
+Deplaned	China Southern	Asia	April	2015	2621	1427871600
+Enplaned	China Southern	Asia	April	2015	1803	1427871600
+Deplaned	Compass Airlines	US	April	2015	37954	1427871600
+Enplaned	Compass Airlines	US	April	2015	37814	1427871600
+Deplaned	Compass Airlines	US	April	2015	2213	1427871600
+Enplaned	Compass Airlines	US	April	2015	1962	1427871600
+Deplaned	Delta Air Lines	US	April	2015	127887	1427871600
+Enplaned	Delta Air Lines	US	April	2015	128368	1427871600
+Deplaned	EVA Airways	Asia	April	2015	17572	1427871600
+Enplaned	EVA Airways	Asia	April	2015	14471	1427871600
+Deplaned	Emirates 	Middle East	April	2015	13876	1427871600
+Enplaned	Emirates 	Middle East	April	2015	10356	1427871600
+Deplaned	Etihad Airways	Middle East	April	2015	7479	1427871600
+Enplaned	Etihad Airways	Middle East	April	2015	4226	1427871600
+Deplaned	Frontier Airlines	US	April	2015	18548	1427871600
+Enplaned	Frontier Airlines	US	April	2015	18263	1427871600
+Deplaned	Hawaiian Airlines	US	April	2015	14571	1427871600
+Enplaned	Hawaiian Airlines	US	April	2015	15291	1427871600
+Deplaned	Japan Airlines	Asia	April	2015	5879	1427871600
+Enplaned	Japan Airlines	Asia	April	2015	5214	1427871600
+Deplaned	JetBlue Airways 	US	April	2015	60277	1427871600
+Enplaned	JetBlue Airways 	US	April	2015	60254	1427871600
+Deplaned	KLM Royal Dutch Airlines	Europe	April	2015	10912	1427871600
+Enplaned	KLM Royal Dutch Airlines	Europe	April	2015	10831	1427871600
+Deplaned	Korean Air Lines	Asia	April	2015	6978	1427871600
+Enplaned	Korean Air Lines	Asia	April	2015	5923	1427871600
+Deplaned	Lufthansa German Airlines	Europe	April	2015	21817	1427871600
+Enplaned	Lufthansa German Airlines	Europe	April	2015	21809	1427871600
+Deplaned	Mesa Airlines	US	April	2015	3817	1427871600
+Enplaned	Mesa Airlines	US	April	2015	3303	1427871600
+Deplaned	Philippine Airlines	Asia	April	2015	11569	1427871600
+Enplaned	Philippine Airlines	Asia	April	2015	9624	1427871600
+Deplaned	SAS Airlines	Europe	April	2015	5757	1427871600
+Enplaned	SAS Airlines	Europe	April	2015	6438	1427871600
+Deplaned	Singapore Airlines	Asia	April	2015	14432	1427871600
+Enplaned	Singapore Airlines	Asia	April	2015	12656	1427871600
+Deplaned	SkyWest Airlines	US	April	2015	3999	1427871600
+Enplaned	SkyWest Airlines	US	April	2015	3924	1427871600
+Deplaned	SkyWest Airlines	US	April	2015	158219	1427871600
+Enplaned	SkyWest Airlines	US	April	2015	157000	1427871600
+Deplaned	SkyWest Airlines	Canada	April	2015	1325	1427871600
+Deplaned	SkyWest Airlines	Canada	April	2015	11070	1427871600
+Enplaned	SkyWest Airlines	Canada	April	2015	12465	1427871600
+Deplaned	Southwest Airlines	US	April	2015	148792	1427871600
+Enplaned	Southwest Airlines	US	April	2015	146825	1427871600
+Thru / Transit	Southwest Airlines	US	April	2015	31	1427871600
+Deplaned	Sun Country Airlines	US	April	2015	4833	1427871600
+Enplaned	Sun Country Airlines	US	April	2015	5065	1427871600
+Deplaned	Swiss International	Europe	April	2015	6116	1427871600
+Enplaned	Swiss International	Europe	April	2015	5749	1427871600
+Deplaned	TACA	Central America	April	2015	5334	1427871600
+Enplaned	TACA	Central America	April	2015	4531	1427871600
+Deplaned	Turkish Airlines	Europe	April	2015	3631	1427871600
+Enplaned	Turkish Airlines	Europe	April	2015	3866	1427871600
+Deplaned	US Airways	US	April	2015	67887	1427871600
+Enplaned	US Airways	US	April	2015	67841	1427871600
+Deplaned	United Airlines	US	April	2015	30467	1427871600
+Enplaned	United Airlines	US	April	2015	30162	1427871600
+Thru / Transit	United Airlines	US	April	2015	723	1427871600
+Deplaned	United Airlines	US	April	2015	237278	1427871600
+Enplaned	United Airlines	US	April	2015	247572	1427871600
+Thru / Transit	United Airlines	US	April	2015	160	1427871600
+Deplaned	United Airlines	US	April	2015	320370	1427871600
+Enplaned	United Airlines	US	April	2015	310284	1427871600
+Thru / Transit	United Airlines	US	April	2015	179	1427871600
+Deplaned	United Airlines	Asia	April	2015	72288	1427871600
+Enplaned	United Airlines	Asia	April	2015	62390	1427871600
+Deplaned	United Airlines	Australia / Oceania	April	2015	6560	1427871600
+Enplaned	United Airlines	Australia / Oceania	April	2015	5065	1427871600
+Deplaned	United Airlines	Canada	April	2015	3541	1427871600
+Enplaned	United Airlines	Canada	April	2015	820	1427871600
+Deplaned	United Airlines	Canada	April	2015	5185	1427871600
+Enplaned	United Airlines	Canada	April	2015	1117	1427871600
+Deplaned	United Airlines	Canada	April	2015	4817	1427871600
+Enplaned	United Airlines	Canada	April	2015	12310	1427871600
+Deplaned	United Airlines	Europe	April	2015	25813	1427871600
+Enplaned	United Airlines	Europe	April	2015	26890	1427871600
+Deplaned	United Airlines	Mexico	April	2015	23753	1427871600
+Enplaned	United Airlines	Mexico	April	2015	16840	1427871600
+Enplaned	United Airlines	Mexico	April	2015	109	1427871600
+Enplaned	United Airlines	Mexico	April	2015	6173	1427871600
+Deplaned	Virgin America	US	April	2015	164960	1427871600
+Enplaned	Virgin America	US	April	2015	167002	1427871600
+Deplaned	Virgin America	Mexico	April	2015	4788	1427871600
+Enplaned	Virgin America	Mexico	April	2015	4416	1427871600
+Deplaned	Virgin Atlantic	Europe	April	2015	11874	1427871600
+Enplaned	Virgin Atlantic	Europe	April	2015	12478	1427871600
+Deplaned	Aer Lingus	Europe	May	2015	6098	1430463600
+Enplaned	Aer Lingus	Europe	May	2015	7245	1430463600
+Deplaned	Aeromexico	Mexico	May	2015	11600	1430463600
+Enplaned	Aeromexico	Mexico	May	2015	11672	1430463600
+Deplaned	Air Canada 	Canada	May	2015	14103	1430463600
+Enplaned	Air Canada 	Canada	May	2015	15624	1430463600
+Deplaned	Air Canada 	Canada	May	2015	21155	1430463600
+Enplaned	Air Canada 	Canada	May	2015	23438	1430463600
+Deplaned	Air China	Asia	May	2015	8801	1430463600
+Enplaned	Air China	Asia	May	2015	8234	1430463600
+Deplaned	Air France	Europe	May	2015	14679	1430463600
+Enplaned	Air France	Europe	May	2015	15184	1430463600
+Deplaned	Air New Zealand	Australia / Oceania	May	2015	9499	1430463600
+Enplaned	Air New Zealand	Australia / Oceania	May	2015	7996	1430463600
+Deplaned	Alaska Airlines	US	May	2015	59777	1430463600
+Enplaned	Alaska Airlines	US	May	2015	60307	1430463600
+Deplaned	Alaska Airlines	Mexico	May	2015	3657	1430463600
+Enplaned	Alaska Airlines	Mexico	May	2015	3956	1430463600
+Deplaned	All Nippon Airways	Asia	May	2015	6604	1430463600
+Enplaned	All Nippon Airways	Asia	May	2015	7412	1430463600
+Deplaned	American Airlines	US	May	2015	121730	1430463600
+Enplaned	American Airlines	US	May	2015	118474	1430463600
+Deplaned	Asiana Airlines	Asia	May	2015	8411	1430463600
+Enplaned	Asiana Airlines	Asia	May	2015	8317	1430463600
+Deplaned	British Airways	Europe	May	2015	21385	1430463600
+Enplaned	British Airways	Europe	May	2015	22075	1430463600
+Deplaned	Cathay Pacific	Asia	May	2015	18052	1430463600
+Enplaned	Cathay Pacific	Asia	May	2015	18109	1430463600
+Deplaned	China Airlines	Asia	May	2015	10104	1430463600
+Enplaned	China Airlines	Asia	May	2015	10851	1430463600
+Deplaned	China Eastern	Asia	May	2015	5953	1430463600
+Enplaned	China Eastern	Asia	May	2015	5442	1430463600
+Deplaned	China Southern	Asia	May	2015	2471	1430463600
+Enplaned	China Southern	Asia	May	2015	2471	1430463600
+Deplaned	Compass Airlines	US	May	2015	40916	1430463600
+Enplaned	Compass Airlines	US	May	2015	41896	1430463600
+Thru / Transit	Compass Airlines	US	May	2015	70	1430463600
+Deplaned	Compass Airlines	US	May	2015	5779	1430463600
+Enplaned	Compass Airlines	US	May	2015	5367	1430463600
+Deplaned	Delta Air Lines	US	May	2015	140772	1430463600
+Enplaned	Delta Air Lines	US	May	2015	138944	1430463600
+Deplaned	EVA Airways	Asia	May	2015	17824	1430463600
+Enplaned	EVA Airways	Asia	May	2015	17778	1430463600
+Deplaned	Emirates 	Middle East	May	2015	13861	1430463600
+Enplaned	Emirates 	Middle East	May	2015	12950	1430463600
+Deplaned	Etihad Airways	Middle East	May	2015	8680	1430463600
+Enplaned	Etihad Airways	Middle East	May	2015	6816	1430463600
+Deplaned	Frontier Airlines	US	May	2015	25399	1430463600
+Enplaned	Frontier Airlines	US	May	2015	18263	1430463600
+Deplaned	Hawaiian Airlines	US	May	2015	15254	1430463600
+Enplaned	Hawaiian Airlines	US	May	2015	14332	1430463600
+Deplaned	Japan Airlines	Asia	May	2015	5690	1430463600
+Enplaned	Japan Airlines	Asia	May	2015	6961	1430463600
+Deplaned	JetBlue Airways 	US	May	2015	61907	1430463600
+Enplaned	JetBlue Airways 	US	May	2015	61200	1430463600
+Deplaned	KLM Royal Dutch Airlines	Europe	May	2015	11263	1430463600
+Enplaned	KLM Royal Dutch Airlines	Europe	May	2015	11745	1430463600
+Deplaned	Korean Air Lines	Asia	May	2015	7440	1430463600
+Enplaned	Korean Air Lines	Asia	May	2015	7252	1430463600
+Deplaned	Lufthansa German Airlines	Europe	May	2015	22810	1430463600
+Enplaned	Lufthansa German Airlines	Europe	May	2015	22847	1430463600
+Deplaned	Mesa Airlines	US	May	2015	345	1430463600
+Enplaned	Mesa Airlines	US	May	2015	332	1430463600
+Deplaned	Philippine Airlines	Asia	May	2015	12385	1430463600
+Enplaned	Philippine Airlines	Asia	May	2015	11923	1430463600
+Deplaned	SAS Airlines	Europe	May	2015	5686	1430463600
+Enplaned	SAS Airlines	Europe	May	2015	6426	1430463600
+Deplaned	Singapore Airlines	Asia	May	2015	13730	1430463600
+Enplaned	Singapore Airlines	Asia	May	2015	15949	1430463600
+Deplaned	SkyWest Airlines	US	May	2015	2418	1430463600
+Enplaned	SkyWest Airlines	US	May	2015	2362	1430463600
+Deplaned	SkyWest Airlines	US	May	2015	156975	1430463600
+Enplaned	SkyWest Airlines	US	May	2015	155789	1430463600
+Deplaned	SkyWest Airlines	Canada	May	2015	2233	1430463600
+Deplaned	SkyWest Airlines	Canada	May	2015	11959	1430463600
+Enplaned	SkyWest Airlines	Canada	May	2015	15114	1430463600
+Deplaned	Southwest Airlines	US	May	2015	156212	1430463600
+Enplaned	Southwest Airlines	US	May	2015	150449	1430463600
+Thru / Transit	Southwest Airlines	US	May	2015	40	1430463600
+Deplaned	Sun Country Airlines	US	May	2015	8198	1430463600
+Enplaned	Sun Country Airlines	US	May	2015	7567	1430463600
+Deplaned	Swiss International	Europe	May	2015	6557	1430463600
+Enplaned	Swiss International	Europe	May	2015	6505	1430463600
+Deplaned	TACA	Central America	May	2015	5208	1430463600
+Enplaned	TACA	Central America	May	2015	5067	1430463600
+Deplaned	Turkish Airlines	Europe	May	2015	7683	1430463600
+Enplaned	Turkish Airlines	Europe	May	2015	7987	1430463600
+Deplaned	US Airways	US	May	2015	43024	1430463600
+Enplaned	US Airways	US	May	2015	42526	1430463600
+Deplaned	US Airways	US	May	2015	35431	1430463600
+Enplaned	US Airways	US	May	2015	35020	1430463600
+Deplaned	United Airlines	US	May	2015	36162	1430463600
+Enplaned	United Airlines	US	May	2015	31968	1430463600
+Thru / Transit	United Airlines	US	May	2015	23	1430463600
+Deplaned	United Airlines	US	May	2015	256459	1430463600
+Enplaned	United Airlines	US	May	2015	267720	1430463600
+Thru / Transit	United Airlines	US	May	2015	151	1430463600
+Deplaned	United Airlines	US	May	2015	352219	1430463600
+Enplaned	United Airlines	US	May	2015	341390	1430463600
+Thru / Transit	United Airlines	US	May	2015	187	1430463600
+Deplaned	United Airlines	Asia	May	2015	73416	1430463600
+Enplaned	United Airlines	Asia	May	2015	77277	1430463600
+Deplaned	United Airlines	Australia / Oceania	May	2015	6400	1430463600
+Enplaned	United Airlines	Australia / Oceania	May	2015	5522	1430463600
+Deplaned	United Airlines	Canada	May	2015	1485	1430463600
+Enplaned	United Airlines	Canada	May	2015	523	1430463600
+Deplaned	United Airlines	Canada	May	2015	7563	1430463600
+Enplaned	United Airlines	Canada	May	2015	1320	1430463600
+Deplaned	United Airlines	Canada	May	2015	8394	1430463600
+Enplaned	United Airlines	Canada	May	2015	13807	1430463600
+Deplaned	United Airlines	Europe	May	2015	37103	1430463600
+Enplaned	United Airlines	Europe	May	2015	40837	1430463600
+Deplaned	United Airlines	Mexico	May	2015	21603	1430463600
+Enplaned	United Airlines	Mexico	May	2015	15187	1430463600
+Thru / Transit	United Airlines	Mexico	May	2015	11	1430463600
+Enplaned	United Airlines	Mexico	May	2015	165	1430463600
+Enplaned	United Airlines	Mexico	May	2015	5575	1430463600
+Deplaned	Virgin America	US	May	2015	172132	1430463600
+Enplaned	Virgin America	US	May	2015	172112	1430463600
+Deplaned	Virgin America	Mexico	May	2015	3671	1430463600
+Enplaned	Virgin America	Mexico	May	2015	3824	1430463600
+Deplaned	Virgin Atlantic	Europe	May	2015	13988	1430463600
+Enplaned	Virgin Atlantic	Europe	May	2015	13399	1430463600
+Deplaned	WestJet Airlines	Canada	May	2015	6614	1430463600
+Enplaned	WestJet Airlines	Canada	May	2015	6931	1430463600
+Deplaned	Aer Lingus	Europe	January	2015	3737	1420099200
+Enplaned	Aer Lingus	Europe	January	2015	3032	1420099200
+Deplaned	Aeromexico	Mexico	January	2015	13288	1420099200
+Enplaned	Aeromexico	Mexico	January	2015	11600	1420099200
+Deplaned	Air Canada 	Canada	January	2015	11565	1420099200
+Enplaned	Air Canada 	Canada	January	2015	11102	1420099200
+Deplaned	Air Canada 	Canada	January	2015	10676	1420099200
+Enplaned	Air Canada 	Canada	January	2015	10248	1420099200
+Deplaned	Air China	Asia	January	2015	7177	1420099200
+Enplaned	Air China	Asia	January	2015	5248	1420099200
+Deplaned	Air France	Europe	January	2015	7675	1420099200
+Enplaned	Air France	Europe	January	2015	7294	1420099200
+Deplaned	Air New Zealand	Australia / Oceania	January	2015	11785	1420099200
+Enplaned	Air New Zealand	Australia / Oceania	January	2015	12973	1420099200
+Deplaned	Alaska Airlines	US	January	2015	49993	1420099200
+Enplaned	Alaska Airlines	US	January	2015	48121	1420099200
+Deplaned	Alaska Airlines	Mexico	January	2015	6591	1420099200
+Enplaned	Alaska Airlines	Mexico	January	2015	5331	1420099200
+Deplaned	All Nippon Airways	Asia	January	2015	7355	1420099200
+Enplaned	All Nippon Airways	Asia	January	2015	6336	1420099200
+Deplaned	American Airlines	US	January	2015	114823	1420099200
+Enplaned	American Airlines	US	January	2015	107237	1420099200
+Deplaned	Asiana Airlines	Asia	January	2015	8108	1420099200
+Enplaned	Asiana Airlines	Asia	January	2015	6423	1420099200
+Deplaned	British Airways	Europe	January	2015	16745	1420099200
+Enplaned	British Airways	Europe	January	2015	15889	1420099200
+Deplaned	Cathay Pacific	Asia	January	2015	17634	1420099200
+Enplaned	Cathay Pacific	Asia	January	2015	16513	1420099200
+Deplaned	China Airlines	Asia	January	2015	10158	1420099200
+Enplaned	China Airlines	Asia	January	2015	11307	1420099200
+Deplaned	China Eastern	Asia	January	2015	5761	1420099200
+Enplaned	China Eastern	Asia	January	2015	3807	1420099200
+Deplaned	China Southern	Asia	January	2015	2774	1420099200
+Enplaned	China Southern	Asia	January	2015	2291	1420099200
+Deplaned	Compass Airlines	US	January	2015	34910	1420099200
+Enplaned	Compass Airlines	US	January	2015	33583	1420099200
+Deplaned	Delta Air Lines	US	January	2015	94843	1420099200
+Enplaned	Delta Air Lines	US	January	2015	94713	1420099200
+Thru / Transit	Delta Air Lines	US	January	2015	130	1420099200
+Deplaned	EVA Airways	Asia	January	2015	17056	1420099200
+Enplaned	EVA Airways	Asia	January	2015	17261	1420099200
+Deplaned	Emirates 	Middle East	January	2015	13937	1420099200
+Enplaned	Emirates 	Middle East	January	2015	12687	1420099200
+Deplaned	Etihad Airways	Middle East	January	2015	8799	1420099200
+Enplaned	Etihad Airways	Middle East	January	2015	6059	1420099200
+Deplaned	Frontier Airlines	US	January	2015	17752	1420099200
+Enplaned	Frontier Airlines	US	January	2015	17933	1420099200
+Deplaned	Hawaiian Airlines	US	January	2015	13881	1420099200
+Enplaned	Hawaiian Airlines	US	January	2015	11530	1420099200
+Deplaned	Japan Airlines	Asia	January	2015	5988	1420099200
+Enplaned	Japan Airlines	Asia	January	2015	5729	1420099200
+Deplaned	JetBlue Airways 	US	January	2015	46995	1420099200
+Enplaned	JetBlue Airways 	US	January	2015	46785	1420099200
+Deplaned	KLM Royal Dutch Airlines	Europe	January	2015	6661	1420099200
+Enplaned	KLM Royal Dutch Airlines	Europe	January	2015	6222	1420099200
+Deplaned	Korean Air Lines	Asia	January	2015	7347	1420099200
+Enplaned	Korean Air Lines	Asia	January	2015	6135	1420099200
+Deplaned	Lufthansa German Airlines	Europe	January	2015	21356	1420099200
+Enplaned	Lufthansa German Airlines	Europe	January	2015	19898	1420099200
+Deplaned	Mesa Airlines	US	January	2015	5033	1420099200
+Enplaned	Mesa Airlines	US	January	2015	4204	1420099200
+Deplaned	Philippine Airlines	Asia	January	2015	11711	1420099200
+Enplaned	Philippine Airlines	Asia	January	2015	11202	1420099200
+Enplaned	Republic Airlines	US	January	2015	51	1420099200
+Deplaned	SAS Airlines	Europe	January	2015	4891	1420099200
+Enplaned	SAS Airlines	Europe	January	2015	4251	1420099200
+Deplaned	Singapore Airlines	Asia	January	2015	14596	1420099200
+Enplaned	Singapore Airlines	Asia	January	2015	12480	1420099200
+Deplaned	SkyWest Airlines	US	January	2015	1859	1420099200
+Enplaned	SkyWest Airlines	US	January	2015	1807	1420099200
+Deplaned	SkyWest Airlines	US	January	2015	145020	1420099200
+Enplaned	SkyWest Airlines	US	January	2015	141096	1420099200
+Deplaned	SkyWest Airlines	Canada	January	2015	1273	1420099200
+Deplaned	SkyWest Airlines	Canada	January	2015	10085	1420099200
+Enplaned	SkyWest Airlines	Canada	January	2015	11225	1420099200
+Deplaned	Southwest Airlines	US	January	2015	124934	1420099200
+Enplaned	Southwest Airlines	US	January	2015	119096	1420099200
+Thru / Transit	Southwest Airlines	US	January	2015	20	1420099200
+Deplaned	Sun Country Airlines	US	January	2015	3734	1420099200
+Enplaned	Sun Country Airlines	US	January	2015	3578	1420099200
+Deplaned	Sun Country Airlines	Mexico	January	2015	912	1420099200
+Enplaned	Sun Country Airlines	Mexico	January	2015	917	1420099200
+Deplaned	Swiss International	Europe	January	2015	6203	1420099200
+Enplaned	Swiss International	Europe	January	2015	5621	1420099200
+Deplaned	TACA	Central America	January	2015	6101	1420099200
+Enplaned	TACA	Central America	January	2015	6011	1420099200
+Deplaned	US Airways	US	January	2015	60619	1420099200
+Enplaned	US Airways	US	January	2015	61729	1420099200
+Deplaned	United Airlines	US	January	2015	28156	1420099200
+Enplaned	United Airlines	US	January	2015	22333	1420099200
+Thru / Transit	United Airlines	US	January	2015	1	1420099200
+Deplaned	United Airlines	US	January	2015	197345	1420099200
+Enplaned	United Airlines	US	January	2015	211641	1420099200
+Thru / Transit	United Airlines	US	January	2015	178	1420099200
+Deplaned	United Airlines	US	January	2015	303783	1420099200
+Enplaned	United Airlines	US	January	2015	283669	1420099200
+Thru / Transit	United Airlines	US	January	2015	380	1420099200
+Deplaned	United Airlines	Asia	January	2015	75110	1420099200
+Enplaned	United Airlines	Asia	January	2015	65024	1420099200
+Thru / Transit	United Airlines	Asia	January	2015	263	1420099200
+Deplaned	United Airlines	Australia / Oceania	January	2015	6940	1420099200
+Enplaned	United Airlines	Australia / Oceania	January	2015	7841	1420099200
+Deplaned	United Airlines	Canada	January	2015	913	1420099200
+Enplaned	United Airlines	Canada	January	2015	517	1420099200
+Deplaned	United Airlines	Canada	January	2015	4858	1420099200
+Enplaned	United Airlines	Canada	January	2015	1102	1420099200
+Deplaned	United Airlines	Canada	January	2015	4972	1420099200
+Enplaned	United Airlines	Canada	January	2015	8754	1420099200
+Deplaned	United Airlines	Europe	January	2015	19383	1420099200
+Enplaned	United Airlines	Europe	January	2015	17923	1420099200
+Deplaned	United Airlines	Mexico	January	2015	19536	1420099200
+Enplaned	United Airlines	Mexico	January	2015	12352	1420099200
+Thru / Transit	United Airlines	Mexico	January	2015	16	1420099200
+Enplaned	United Airlines	Mexico	January	2015	325	1420099200
+Enplaned	United Airlines	Mexico	January	2015	4820	1420099200
+Deplaned	Virgin America	US	January	2015	146357	1420099200
+Enplaned	Virgin America	US	January	2015	142865	1420099200
+Deplaned	Virgin America	Mexico	January	2015	3483	1420099200
+Enplaned	Virgin America	Mexico	January	2015	2846	1420099200
+Deplaned	Virgin Atlantic	Europe	January	2015	9344	1420099200
+Enplaned	Virgin Atlantic	Europe	January	2015	8008	1420099200
+Deplaned	Aer Lingus	Europe	March	2015	3946	1425196800
+Enplaned	Aer Lingus	Europe	March	2015	3746	1425196800
+Deplaned	Aeromexico	Mexico	March	2015	11097	1425196800
+Enplaned	Aeromexico	Mexico	March	2015	10516	1425196800
+Deplaned	Air Canada 	Canada	March	2015	12397	1425196800
+Enplaned	Air Canada 	Canada	March	2015	12883	1425196800
+Deplaned	Air Canada 	Canada	March	2015	15152	1425196800
+Enplaned	Air Canada 	Canada	March	2015	15745	1425196800
+Deplaned	Air China	Asia	March	2015	6576	1425196800
+Enplaned	Air China	Asia	March	2015	7836	1425196800
+Deplaned	Air France	Europe	March	2015	9008	1425196800
+Enplaned	Air France	Europe	March	2015	8935	1425196800
+Deplaned	Air New Zealand	Australia / Oceania	March	2015	10156	1425196800
+Enplaned	Air New Zealand	Australia / Oceania	March	2015	9031	1425196800
+Deplaned	Alaska Airlines	US	March	2015	58892	1425196800
+Enplaned	Alaska Airlines	US	March	2015	56107	1425196800
+Deplaned	Alaska Airlines	Mexico	March	2015	4714	1425196800
+Enplaned	Alaska Airlines	Mexico	March	2015	5115	1425196800
+Deplaned	All Nippon Airways	Asia	March	2015	7259	1425196800
+Enplaned	All Nippon Airways	Asia	March	2015	7465	1425196800
+Deplaned	American Airlines	US	March	2015	119677	1425196800
+Enplaned	American Airlines	US	March	2015	118333	1425196800
+Deplaned	Asiana Airlines	Asia	March	2015	7555	1425196800
+Enplaned	Asiana Airlines	Asia	March	2015	7350	1425196800
+Deplaned	British Airways	Europe	March	2015	18040	1425196800
+Enplaned	British Airways	Europe	March	2015	17304	1425196800
+Deplaned	Cathay Pacific	Asia	March	2015	16857	1425196800
+Enplaned	Cathay Pacific	Asia	March	2015	17098	1425196800
+Deplaned	China Airlines	Asia	March	2015	10894	1425196800
+Enplaned	China Airlines	Asia	March	2015	10697	1425196800
+Deplaned	China Eastern	Asia	March	2015	4864	1425196800
+Enplaned	China Eastern	Asia	March	2015	5082	1425196800
+Deplaned	China Southern	Asia	March	2015	2521	1425196800
+Enplaned	China Southern	Asia	March	2015	2149	1425196800
+Deplaned	Compass Airlines	US	March	2015	39820	1425196800
+Enplaned	Compass Airlines	US	March	2015	39867	1425196800
+Deplaned	Delta Air Lines	US	March	2015	125028	1425196800
+Enplaned	Delta Air Lines	US	March	2015	124027	1425196800
+Deplaned	EVA Airways	Asia	March	2015	17588	1425196800
+Enplaned	EVA Airways	Asia	March	2015	16778	1425196800
+Deplaned	Emirates 	Middle East	March	2015	13556	1425196800
+Enplaned	Emirates 	Middle East	March	2015	11685	1425196800
+Deplaned	Etihad Airways	Middle East	March	2015	7525	1425196800
+Enplaned	Etihad Airways	Middle East	March	2015	4585	1425196800
+Deplaned	Frontier Airlines	US	March	2015	18231	1425196800
+Enplaned	Frontier Airlines	US	March	2015	18263	1425196800
+Deplaned	Hawaiian Airlines	US	March	2015	12900	1425196800
+Enplaned	Hawaiian Airlines	US	March	2015	13964	1425196800
+Deplaned	Japan Airlines	Asia	March	2015	5760	1425196800
+Enplaned	Japan Airlines	Asia	March	2015	6609	1425196800
+Deplaned	JetBlue Airways 	US	March	2015	59583	1425196800
+Enplaned	JetBlue Airways 	US	March	2015	59523	1425196800
+Deplaned	KLM Royal Dutch Airlines	Europe	March	2015	6745	1425196800
+Enplaned	KLM Royal Dutch Airlines	Europe	March	2015	6327	1425196800
+Deplaned	Korean Air Lines	Asia	March	2015	5289	1425196800
+Enplaned	Korean Air Lines	Asia	March	2015	5547	1425196800
+Deplaned	Lufthansa German Airlines	Europe	March	2015	23384	1425196800
+Enplaned	Lufthansa German Airlines	Europe	March	2015	21917	1425196800
+Deplaned	Mesa Airlines	US	March	2015	6234	1425196800
+Enplaned	Mesa Airlines	US	March	2015	5861	1425196800
+Deplaned	Philippine Airlines	Asia	March	2015	10508	1425196800
+Enplaned	Philippine Airlines	Asia	March	2015	8686	1425196800
+Deplaned	SAS Airlines	Europe	March	2015	6167	1425196800
+Enplaned	SAS Airlines	Europe	March	2015	5867	1425196800
+Deplaned	Singapore Airlines	Asia	March	2015	12238	1425196800
+Enplaned	Singapore Airlines	Asia	March	2015	13489	1425196800
+Deplaned	SkyWest Airlines	US	March	2015	5673	1425196800
+Enplaned	SkyWest Airlines	US	March	2015	5836	1425196800
+Deplaned	SkyWest Airlines	US	March	2015	164272	1425196800
+Enplaned	SkyWest Airlines	US	March	2015	160967	1425196800
+Deplaned	SkyWest Airlines	Canada	March	2015	1382	1425196800
+Deplaned	SkyWest Airlines	Canada	March	2015	12006	1425196800
+Enplaned	SkyWest Airlines	Canada	March	2015	13199	1425196800
+Deplaned	Southwest Airlines	US	March	2015	149911	1425196800
+Enplaned	Southwest Airlines	US	March	2015	147533	1425196800
+Thru / Transit	Southwest Airlines	US	March	2015	50	1425196800
+Deplaned	Sun Country Airlines	US	March	2015	3210	1425196800
+Enplaned	Sun Country Airlines	US	March	2015	3230	1425196800
+Deplaned	Sun Country Airlines	Mexico	March	2015	315	1425196800
+Deplaned	Swiss International	Europe	March	2015	6391	1425196800
+Enplaned	Swiss International	Europe	March	2015	5951	1425196800
+Deplaned	TACA	Central America	March	2015	5539	1425196800
+Enplaned	TACA	Central America	March	2015	5195	1425196800
+Deplaned	US Airways	US	March	2015	65797	1425196800
+Enplaned	US Airways	US	March	2015	68635	1425196800
+Deplaned	United Airlines	US	March	2015	25991	1425196800
+Enplaned	United Airlines	US	March	2015	27485	1425196800
+Thru / Transit	United Airlines	US	March	2015	272	1425196800
+Deplaned	United Airlines	US	March	2015	242810	1425196800
+Enplaned	United Airlines	US	March	2015	256380	1425196800
+Thru / Transit	United Airlines	US	March	2015	219	1425196800
+Deplaned	United Airlines	US	March	2015	316133	1425196800
+Enplaned	United Airlines	US	March	2015	307470	1425196800
+Thru / Transit	United Airlines	US	March	2015	668	1425196800
+Deplaned	United Airlines	Asia	March	2015	70071	1425196800
+Enplaned	United Airlines	Asia	March	2015	78313	1425196800
+Deplaned	United Airlines	Australia / Oceania	March	2015	7522	1425196800
+Enplaned	United Airlines	Australia / Oceania	March	2015	6220	1425196800
+Deplaned	United Airlines	Canada	March	2015	2121	1425196800
+Enplaned	United Airlines	Canada	March	2015	743	1425196800
+Deplaned	United Airlines	Canada	March	2015	3177	1425196800
+Enplaned	United Airlines	Canada	March	2015	362	1425196800
+Deplaned	United Airlines	Canada	March	2015	6570	1425196800
+Enplaned	United Airlines	Canada	March	2015	11808	1425196800
+Deplaned	United Airlines	Europe	March	2015	20223	1425196800
+Enplaned	United Airlines	Europe	March	2015	19719	1425196800
+Deplaned	United Airlines	Mexico	March	2015	23268	1425196800
+Enplaned	United Airlines	Mexico	March	2015	17332	1425196800
+Thru / Transit	United Airlines	Mexico	March	2015	2	1425196800
+Enplaned	United Airlines	Mexico	March	2015	464	1425196800
+Enplaned	United Airlines	Mexico	March	2015	5667	1425196800
+Deplaned	Virgin America	US	March	2015	163017	1425196800
+Enplaned	Virgin America	US	March	2015	165828	1425196800
+Deplaned	Virgin America	Mexico	March	2015	3938	1425196800
+Enplaned	Virgin America	Mexico	March	2015	4115	1425196800
+Deplaned	Virgin Atlantic	Europe	March	2015	10498	1425196800
+Enplaned	Virgin Atlantic	Europe	March	2015	9475	1425196800
+Deplaned	Aer Lingus	Europe	February	2015	2590	1422777600
+Enplaned	Aer Lingus	Europe	February	2015	2585	1422777600
+Deplaned	Aeromexico	Mexico	February	2015	9999	1422777600
+Enplaned	Aeromexico	Mexico	February	2015	9982	1422777600
+Deplaned	Air Canada 	Canada	February	2015	11101	1422777600
+Enplaned	Air Canada 	Canada	February	2015	10320	1422777600
+Deplaned	Air Canada 	Canada	February	2015	12519	1422777600
+Enplaned	Air Canada 	Canada	February	2015	11638	1422777600
+Deplaned	Air China	Asia	February	2015	7023	1422777600
+Enplaned	Air China	Asia	February	2015	6612	1422777600
+Deplaned	Air France	Europe	February	2015	6804	1422777600
+Enplaned	Air France	Europe	February	2015	6426	1422777600
+Deplaned	Air New Zealand	Australia / Oceania	February	2015	10502	1422777600
+Enplaned	Air New Zealand	Australia / Oceania	February	2015	11436	1422777600
+Deplaned	Alaska Airlines	US	February	2015	48728	1422777600
+Enplaned	Alaska Airlines	US	February	2015	47111	1422777600
+Deplaned	Alaska Airlines	Mexico	February	2015	4648	1422777600
+Enplaned	Alaska Airlines	Mexico	February	2015	4899	1422777600
+Deplaned	All Nippon Airways	Asia	February	2015	6582	1422777600
+Enplaned	All Nippon Airways	Asia	February	2015	5827	1422777600
+Deplaned	American Airlines	US	February	2015	100010	1422777600
+Enplaned	American Airlines	US	February	2015	97746	1422777600
+Deplaned	Asiana Airlines	Asia	February	2015	6945	1422777600
+Enplaned	Asiana Airlines	Asia	February	2015	7000	1422777600
+Deplaned	British Airways	Europe	February	2015	15388	1422777600
+Enplaned	British Airways	Europe	February	2015	14372	1422777600
+Deplaned	Cathay Pacific	Asia	February	2015	15306	1422777600
+Enplaned	Cathay Pacific	Asia	February	2015	14103	1422777600
+Deplaned	China Airlines	Asia	February	2015	8594	1422777600
+Enplaned	China Airlines	Asia	February	2015	10094	1422777600
+Deplaned	China Eastern	Asia	February	2015	5444	1422777600
+Enplaned	China Eastern	Asia	February	2015	4558	1422777600
+Deplaned	China Southern	Asia	February	2015	2311	1422777600
+Enplaned	China Southern	Asia	February	2015	2311	1422777600
+Deplaned	Compass Airlines	US	February	2015	34168	1422777600
+Enplaned	Compass Airlines	US	February	2015	34269	1422777600
+Deplaned	Delta Air Lines	US	February	2015	91506	1422777600
+Enplaned	Delta Air Lines	US	February	2015	87053	1422777600
+Thru / Transit	Delta Air Lines	US	February	2015	41	1422777600
+Deplaned	EVA Airways	Asia	February	2015	14499	1422777600
+Enplaned	EVA Airways	Asia	February	2015	15409	1422777600
+Deplaned	Emirates 	Middle East	February	2015	11774	1422777600
+Enplaned	Emirates 	Middle East	February	2015	10649	1422777600
+Deplaned	Etihad Airways	Middle East	February	2015	6770	1422777600
+Enplaned	Etihad Airways	Middle East	February	2015	4609	1422777600
+Deplaned	Frontier Airlines	US	February	2015	16473	1422777600
+Enplaned	Frontier Airlines	US	February	2015	16475	1422777600
+Deplaned	Hawaiian Airlines	US	February	2015	10924	1422777600
+Enplaned	Hawaiian Airlines	US	February	2015	11207	1422777600
+Deplaned	Japan Airlines	Asia	February	2015	5538	1422777600
+Enplaned	Japan Airlines	Asia	February	2015	5397	1422777600
+Deplaned	JetBlue Airways 	US	February	2015	47858	1422777600
+Enplaned	JetBlue Airways 	US	February	2015	46569	1422777600
+Deplaned	KLM Royal Dutch Airlines	Europe	February	2015	5669	1422777600
+Enplaned	KLM Royal Dutch Airlines	Europe	February	2015	5012	1422777600
+Deplaned	Korean Air Lines	Asia	February	2015	5721	1422777600
+Enplaned	Korean Air Lines	Asia	February	2015	6018	1422777600
+Deplaned	Lufthansa German Airlines	Europe	February	2015	18451	1422777600
+Enplaned	Lufthansa German Airlines	Europe	February	2015	17218	1422777600
+Deplaned	Mesa Airlines	US	February	2015	5102	1422777600
+Enplaned	Mesa Airlines	US	February	2015	4667	1422777600
+Deplaned	Philippine Airlines	Asia	February	2015	10222	1422777600
+Enplaned	Philippine Airlines	Asia	February	2015	9064	1422777600
+Deplaned	Republic Airlines	US	February	2015	51	1422777600
+Deplaned	SAS Airlines	Europe	February	2015	4668	1422777600
+Enplaned	SAS Airlines	Europe	February	2015	3878	1422777600
+Deplaned	Singapore Airlines	Asia	February	2015	11146	1422777600
+Enplaned	Singapore Airlines	Asia	February	2015	12314	1422777600
+Deplaned	SkyWest Airlines	US	February	2015	1532	1422777600
+Enplaned	SkyWest Airlines	US	February	2015	1444	1422777600
+Thru / Transit	SkyWest Airlines	US	February	2015	36	1422777600
+Deplaned	SkyWest Airlines	US	February	2015	127460	1422777600
+Enplaned	SkyWest Airlines	US	February	2015	128247	1422777600
+Deplaned	SkyWest Airlines	Canada	February	2015	1039	1422777600
+Deplaned	SkyWest Airlines	Canada	February	2015	8631	1422777600
+Enplaned	SkyWest Airlines	Canada	February	2015	9613	1422777600
+Deplaned	Southwest Airlines	US	February	2015	114811	1422777600
+Enplaned	Southwest Airlines	US	February	2015	112533	1422777600
+Thru / Transit	Southwest Airlines	US	February	2015	73	1422777600
+Deplaned	Sun Country Airlines	US	February	2015	2656	1422777600
+Enplaned	Sun Country Airlines	US	February	2015	2642	1422777600
+Deplaned	Sun Country Airlines	Mexico	February	2015	926	1422777600
+Enplaned	Sun Country Airlines	Mexico	February	2015	1251	1422777600
+Deplaned	Swiss International	Europe	February	2015	5402	1422777600
+Enplaned	Swiss International	Europe	February	2015	4740	1422777600
+Deplaned	TACA	Central America	February	2015	5073	1422777600
+Enplaned	TACA	Central America	February	2015	4937	1422777600
+Deplaned	US Airways	US	February	2015	53065	1422777600
+Enplaned	US Airways	US	February	2015	53450	1422777600
+Deplaned	United Airlines	US	February	2015	21779	1422777600
+Enplaned	United Airlines	US	February	2015	21031	1422777600
+Thru / Transit	United Airlines	US	February	2015	7	1422777600
+Deplaned	United Airlines	US	February	2015	183384	1422777600
+Enplaned	United Airlines	US	February	2015	197534	1422777600
+Thru / Transit	United Airlines	US	February	2015	97	1422777600
+Deplaned	United Airlines	US	February	2015	277766	1422777600
+Enplaned	United Airlines	US	February	2015	261011	1422777600
+Thru / Transit	United Airlines	US	February	2015	127	1422777600
+Deplaned	United Airlines	Asia	February	2015	63712	1422777600
+Enplaned	United Airlines	Asia	February	2015	61924	1422777600
+Deplaned	United Airlines	Australia / Oceania	February	2015	5765	1422777600
+Enplaned	United Airlines	Australia / Oceania	February	2015	6688	1422777600
+Deplaned	United Airlines	Canada	February	2015	695	1422777600
+Enplaned	United Airlines	Canada	February	2015	535	1422777600
+Deplaned	United Airlines	Canada	February	2015	5311	1422777600
+Enplaned	United Airlines	Canada	February	2015	1155	1422777600
+Deplaned	United Airlines	Canada	February	2015	4632	1422777600
+Enplaned	United Airlines	Canada	February	2015	8697	1422777600
+Deplaned	United Airlines	Europe	February	2015	16721	1422777600
+Enplaned	United Airlines	Europe	February	2015	15059	1422777600
+Deplaned	United Airlines	Mexico	February	2015	16615	1422777600
+Enplaned	United Airlines	Mexico	February	2015	11019	1422777600
+Thru / Transit	United Airlines	Mexico	February	2015	9	1422777600
+Enplaned	United Airlines	Mexico	February	2015	159	1422777600
+Enplaned	United Airlines	Mexico	February	2015	6434	1422777600
+Deplaned	Virgin America	US	February	2015	133618	1422777600
+Enplaned	Virgin America	US	February	2015	134304	1422777600
+Deplaned	Virgin America	Mexico	February	2015	3163	1422777600
+Enplaned	Virgin America	Mexico	February	2015	3341	1422777600
+Deplaned	Virgin Atlantic	Europe	February	2015	7343	1422777600
+Enplaned	Virgin Atlantic	Europe	February	2015	7045	1422777600

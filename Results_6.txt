@@ -1,0 +1,1 @@
+Min time must be smaller than Max time

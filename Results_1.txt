@@ -1,0 +1,100 @@
+Deplaned,Aer Lingus,Europe,May,2015,6098,1430463600
+Enplaned,Aer Lingus,Europe,May,2015,7245,1430463600
+Deplaned,Aeromexico,Mexico,May,2015,11600,1430463600
+Enplaned,Aeromexico,Mexico,May,2015,11672,1430463600
+Deplaned,Air Canada ,Canada,May,2015,14103,1430463600
+Enplaned,Air Canada ,Canada,May,2015,15624,1430463600
+Deplaned,Air Canada ,Canada,May,2015,21155,1430463600
+Enplaned,Air Canada ,Canada,May,2015,23438,1430463600
+Deplaned,Air China,Asia,May,2015,8801,1430463600
+Enplaned,Air China,Asia,May,2015,8234,1430463600
+Deplaned,Air France,Europe,May,2015,14679,1430463600
+Enplaned,Air France,Europe,May,2015,15184,1430463600
+Deplaned,Air New Zealand,Australia / Oceania,May,2015,9499,1430463600
+Enplaned,Air New Zealand,Australia / Oceania,May,2015,7996,1430463600
+Deplaned,Alaska Airlines,US,May,2015,59777,1430463600
+Enplaned,Alaska Airlines,US,May,2015,60307,1430463600
+Deplaned,Alaska Airlines,Mexico,May,2015,3657,1430463600
+Enplaned,Alaska Airlines,Mexico,May,2015,3956,1430463600
+Deplaned,All Nippon Airways,Asia,May,2015,6604,1430463600
+Enplaned,All Nippon Airways,Asia,May,2015,7412,1430463600
+Deplaned,American Airlines,US,May,2015,121730,1430463600
+Enplaned,American Airlines,US,May,2015,118474,1430463600
+Deplaned,Asiana Airlines,Asia,May,2015,8411,1430463600
+Enplaned,Asiana Airlines,Asia,May,2015,8317,1430463600
+Deplaned,British Airways,Europe,May,2015,21385,1430463600
+Enplaned,British Airways,Europe,May,2015,22075,1430463600
+Deplaned,Cathay Pacific,Asia,May,2015,18052,1430463600
+Enplaned,Cathay Pacific,Asia,May,2015,18109,1430463600
+Deplaned,China Airlines,Asia,May,2015,10104,1430463600
+Enplaned,China Airlines,Asia,May,2015,10851,1430463600
+Deplaned,China Eastern,Asia,May,2015,5953,1430463600
+Enplaned,China Eastern,Asia,May,2015,5442,1430463600
+Deplaned,China Southern,Asia,May,2015,2471,1430463600
+Enplaned,China Southern,Asia,May,2015,2471,1430463600
+Deplaned,Compass Airlines,US,May,2015,40916,1430463600
+Enplaned,Compass Airlines,US,May,2015,41896,1430463600
+Thru / Transit,Compass Airlines,US,May,2015,70,1430463600
+Deplaned,Compass Airlines,US,May,2015,5779,1430463600
+Enplaned,Compass Airlines,US,May,2015,5367,1430463600
+Deplaned,Delta Air Lines,US,May,2015,140772,1430463600
+Enplaned,Delta Air Lines,US,May,2015,138944,1430463600
+Deplaned,EVA Airways,Asia,May,2015,17824,1430463600
+Enplaned,EVA Airways,Asia,May,2015,17778,1430463600
+Deplaned,Emirates ,Middle East,May,2015,13861,1430463600
+Enplaned,Emirates ,Middle East,May,2015,12950,1430463600
+Deplaned,Etihad Airways,Middle East,May,2015,8680,1430463600
+Enplaned,Etihad Airways,Middle East,May,2015,6816,1430463600
+Deplaned,Frontier Airlines,US,May,2015,25399,1430463600
+Enplaned,Frontier Airlines,US,May,2015,18263,1430463600
+Deplaned,Hawaiian Airlines,US,May,2015,15254,1430463600
+Enplaned,Hawaiian Airlines,US,May,2015,14332,1430463600
+Deplaned,Japan Airlines,Asia,May,2015,5690,1430463600
+Enplaned,Japan Airlines,Asia,May,2015,6961,1430463600
+Deplaned,JetBlue Airways ,US,May,2015,61907,1430463600
+Enplaned,JetBlue Airways ,US,May,2015,61200,1430463600
+Deplaned,KLM Royal Dutch Airlines,Europe,May,2015,11263,1430463600
+Enplaned,KLM Royal Dutch Airlines,Europe,May,2015,11745,1430463600
+Deplaned,Korean Air Lines,Asia,May,2015,7440,1430463600
+Enplaned,Korean Air Lines,Asia,May,2015,7252,1430463600
+Deplaned,Lufthansa German Airlines,Europe,May,2015,22810,1430463600
+Enplaned,Lufthansa German Airlines,Europe,May,2015,22847,1430463600
+Deplaned,Mesa Airlines,US,May,2015,345,1430463600
+Enplaned,Mesa Airlines,US,May,2015,332,1430463600
+Deplaned,Philippine Airlines,Asia,May,2015,12385,1430463600
+Enplaned,Philippine Airlines,Asia,May,2015,11923,1430463600
+Deplaned,SAS Airlines,Europe,May,2015,5686,1430463600
+Enplaned,SAS Airlines,Europe,May,2015,6426,1430463600
+Deplaned,Singapore Airlines,Asia,May,2015,13730,1430463600
+Enplaned,Singapore Airlines,Asia,May,2015,15949,1430463600
+Deplaned,SkyWest Airlines,US,May,2015,2418,1430463600
+Enplaned,SkyWest Airlines,US,May,2015,2362,1430463600
+Deplaned,SkyWest Airlines,US,May,2015,156975,1430463600
+Enplaned,SkyWest Airlines,US,May,2015,155789,1430463600
+Deplaned,SkyWest Airlines,Canada,May,2015,2233,1430463600
+Deplaned,SkyWest Airlines,Canada,May,2015,11959,1430463600
+Enplaned,SkyWest Airlines,Canada,May,2015,15114,1430463600
+Deplaned,Southwest Airlines,US,May,2015,156212,1430463600
+Enplaned,Southwest Airlines,US,May,2015,150449,1430463600
+Thru / Transit,Southwest Airlines,US,May,2015,40,1430463600
+Deplaned,Sun Country Airlines,US,May,2015,8198,1430463600
+Enplaned,Sun Country Airlines,US,May,2015,7567,1430463600
+Deplaned,Swiss International,Europe,May,2015,6557,1430463600
+Enplaned,Swiss International,Europe,May,2015,6505,1430463600
+Deplaned,TACA,Central America,May,2015,5208,1430463600
+Enplaned,TACA,Central America,May,2015,5067,1430463600
+Deplaned,Turkish Airlines,Europe,May,2015,7683,1430463600
+Enplaned,Turkish Airlines,Europe,May,2015,7987,1430463600
+Deplaned,US Airways,US,May,2015,43024,1430463600
+Enplaned,US Airways,US,May,2015,42526,1430463600
+Deplaned,US Airways,US,May,2015,35431,1430463600
+Enplaned,US Airways,US,May,2015,35020,1430463600
+Deplaned,United Airlines,US,May,2015,36162,1430463600
+Enplaned,United Airlines,US,May,2015,31968,1430463600
+Thru / Transit,United Airlines,US,May,2015,23,1430463600
+Deplaned,United Airlines,US,May,2015,256459,1430463600
+Enplaned,United Airlines,US,May,2015,267720,1430463600
+Thru / Transit,United Airlines,US,May,2015,151,1430463600
+Deplaned,United Airlines,US,May,2015,352219,1430463600
+Enplaned,United Airlines,US,May,2015,341390,1430463600
+Thru / Transit,United Airlines,US,May,2015,187,1430463600

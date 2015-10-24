@@ -1,0 +1,36 @@
+Query 1: (All options)
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 1420099200 -M 1433142000 -l 100 airport_data sfo_pass_raw
+
+Query 2: (Default to format and engine and no limit)
+
+python query.py -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 1420099200 -M 1433142000 airport_data sfo_pass_raw
+
+Query 3: (No optional options)
+
+python query.py airport_data sfo_pass_raw
+
+Query 4: (No max timestamp)
+
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 1420099200 -l 100 airport_data sfo_pass_raw
+
+Query 5: (Empty result set)
+
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 0 -M 0 -l 100 airport_data sfo_pass_raw
+
+Query 6: (Min timestamp greater than Max timestamp)
+
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 1420099200 -M 0 -l 100 airport_data sfo_pass_raw
+
+Query 7: (No mandatory fields)
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m 1420099200 -M 1433142000 -l 100
+
+Query 8: (Invalid options)
+python query.py -g csv -l 100 airport_data sfo_pass_raw
+
+Query 9: (Tabular with no timestamp criteria)
+
+python query.py -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -l 100 airport_data sfo_pass_raw
+
+Query 10: (Bad timestamp value)
+
+python query.py -f csv -e hive -c activity_type_code,operating_airline,geo_region,month,year,passenger_count,time -m abcd -M 1433142000 -l 100 airport_data sfo_pass_raw
