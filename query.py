@@ -2,8 +2,21 @@ import os
 import sys, getopt
 import tdclient
 
+#Validate arguments
+def validate_args(args):
+        args_len = len(args)
+        if args_len != 2:
+                print "Please provide both DB name and Table Name"
+                sys.exit(2)
+
 #Validate options
-def validate_options(engine,format):
+def validate_options(min_time,max_time,engine,format):
+	if min_time is not None and not min_time.isdigit():
+		print "Please specify a valid timestamp for min_time"
+		sys.exit(2)
+	if max_time is not None and not max_time.isdigit():
+        	print "Please specify a valid timestamp for max_time"
+        	sys.exit(2)
 	if engine not in ("presto", "hive"):
 		print "Please specify correct engine value"
 		sys.exit(2)
@@ -34,7 +47,6 @@ def execute_query(apikey,db_name,query,engine,format):
 
 
 def main():
-
 	apikey = "7072/89472d81d6e3e172ab0eadd0cf89829ea572abca"
 	db_name = ''
 	table_name = ''
@@ -50,6 +62,8 @@ def main():
 	except getopt.GetoptError as err:
 		print "Please specify a valid option: -f, -e, -c, -m, -M, -l"
         	sys.exit(2)
+
+	validate_args(args)
 
 	db_name = args[0]
 	table_name = args[1]
@@ -68,7 +82,7 @@ def main():
     		elif o == '-l':
         		limit = a
 
-	validate_options(engine,format)
+	validate_options(min_time,max_time,engine,format)
 
 	query = build_query(col_list,table_name,min_time,max_time,limit)
 	print query
@@ -76,3 +90,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
